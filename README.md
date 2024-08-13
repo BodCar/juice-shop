@@ -56,7 +56,7 @@ For a detailed introduction, full list of features and architecture overview ple
 - [Licensing](#licensing)
 
 ## Setup
-
+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
 > You can find some less common installation variations as well as instructions to run Juice Shop on a variety of cloud computing providers in
 > [the _Running OWASP Juice Shop_ documentation](https://pwning.owasp-juice.shop/companion-guide/latest/part1/running.html).
 
